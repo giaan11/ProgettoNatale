@@ -1,14 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import Home from './Components/Home';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    <React.StrictMode>
+        <div style={{ textAlign: '-webkit-center', backgroundColor: '#2f7b3d' }}>
+            < Home />
+        </div>
+
+    </React.StrictMode >
 );
 
 // If you want to start measuring performance in your app, pass a function

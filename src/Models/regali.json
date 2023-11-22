@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Palla",
+    "description": "rossa",
+    "link": "https://www.coca-cola.com/it/it/brands/coca-cola"
+  },
+  {
+    "id": "2",
+    "name": "Macchina",
+    "description": "verde",
+    "link": null
+  }
+]
